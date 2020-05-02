@@ -1,0 +1,148 @@
+form .avatar {
+    width: 55px;
+    margin-bottom: 15px;
+}
+
+.container-avatar{
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+    margin-left: 20px;
+}
+
+.pub_image .nickname{
+    color: gray;
+}
+
+.navbar .container-avatar,
+.pub_image .container-avatar div{
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+    margin-left: 20px;
+}
+
+.pub_image{
+    margin-bottom: 25px;
+}
+
+.navbar .container-avatar img,
+.pub_image .container-avatar img{
+    height: 100%;
+}
+
+.pub_image .container-avatar{
+    float: left;
+    margin-right: 15px;
+}
+
+.container-edit{
+    width: 35px;
+    height: 35px;
+    overflow: hidden;
+    margin-left: 20px;
+}
+.pub_image .container-edit img{
+    height: 100%;
+}
+
+
+.pub_image .data-user{
+    font-weight: bold;
+    line-height: 35px;
+}
+
+div .data-user a{
+    color: #444;
+}
+
+.image-container{
+    width: 100%;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+
+
+.image-container img{
+    width: 100%;
+}
+
+.pub_image .card-body{
+    padding: 0px;
+}
+
+.pub_image .description{
+    padding: 20px;
+    padding-bottom: 0px;
+    
+}
+
+.comments div{
+    margin: 20px;
+    margin-top: 0px;  
+}
+.pub_image .btn-comments{
+    margin: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.likes{
+    float: left;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.likes div img{
+    width: 20px;
+    height: 20px;
+}
+
+div .image-container .image-detail{
+    max-height: 500px;
+}
+
+.pub_image_detail .comments {
+    padding: 20px;
+}
+
+.pub_image_detail .comments div{
+    padding: 20px;
+}
+
+.number_likes{
+    color:gray;
+    font-size: 13px;
+}
+
+.profile-user{
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+.profile-user .container-avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 900px;
+    overflow: hidden;
+    float: left;
+}
+
+.profile-user .container-avatar img{
+    width: 100%;
+    height: 100%;
+}
+
+.profile-user .user-info{
+    float: left;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+.btn-search{
+    margin-left: 0px;
+    padding-left: 0px;
+}
