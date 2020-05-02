@@ -1,5 +1,5 @@
 # Social-Network
-## Instagram clone with Laravel
+## Instagram clone with Laravel 7
 <p>Laravel, SQL, Bootstrap, Css, JQuery</p>
 
 
